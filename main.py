@@ -10,4 +10,4 @@ def senManipul(sentence):
     finalString += "."
     return finalString
 
-final = print(senManipul(input(str("Input a sentence: "))))
+print(senManipul(input(str("Input a sentence: "))))
